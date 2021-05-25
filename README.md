@@ -9,4 +9,4 @@
 
 
 ## Architecture:
-    ![Architecture Image](python_uS_arch.png "Architecture Image")    
+    ![Architecture Image](./python_uS_arch.png)  
