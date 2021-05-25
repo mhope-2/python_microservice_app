@@ -10,8 +10,6 @@
 
 
 ## Architecture:
-    ![Architecture Image](media/python_uS_arch.png?raw=true) 
-    [ai/size-limit](https://github.com/ai/size-limit#readme)  
-
+![Architecture Image](/media/python_uS_arch.png?raw=true) 
 
 #### reference: https://www.youtube.com/watch?v=0iB5IPoTDts (FreeCodeCamp)
