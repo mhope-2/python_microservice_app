@@ -9,4 +9,4 @@
 
 
 ## Architecture:
-    ![Architecture Image](./python_uS_arch.png)  
+    ![Architecture Image](https://github.com/mhope-2/python_microservice_app/blob/master/python_uS_arch.png)  
